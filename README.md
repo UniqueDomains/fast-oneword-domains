@@ -78,10 +78,10 @@ print(df.head())
 | good.fast      | premium   | $312.50   | $312.50       | 82             | 55     | 4      | name.com       |
 | crisp.fast     | available | $35.98    | —             | 68             | 27     | 5      | namecheap      |
 | match.fast     | resell    | —         | —             | 102            | 65     | 5      | NameCheap, Inc |
-| zero.fast      | premium   | $312.50   | $312.50       | 112            | 54     | 4      | name.com       |
+| alpha.fast     | premium   | $312.50   | $312.50       | 90             | 54     | 5      | name.com       |
 | adept.fast     | available | $35.98    | —             | 92             | 26     | 5      | namecheap      |
 | power.fast     | resell    | —         | —             | 82             | 62     | 5      | Porkbun LLC    |
-| alpha.fast     | premium   | $312.50   | $312.50       | 90             | 54     | 5      | name.com       |
+| zero.fast      | premium   | $312.50   | $312.50       | 112            | 53     | 4      | name.com       |
 | tonic.fast     | available | $35.98    | —             | 114            | 25     | 5      | namecheap      |
 | digital.fast   | resell    | —         | —             | 100            | 50     | 7      | Dynadot, LLC   |
 
