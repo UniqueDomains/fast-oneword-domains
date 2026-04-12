@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .fast one-word domains from Unique
 
 **Public extract:** 7,376 rows · **Live catalog:** 7,376 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/fast`  
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | aesthetic.fast | available | $35.98    | —             | 88             | 31     | 9      | namecheap      |
 | paddle.fast    | resell    | —         | —             | 77             | 78     | 6      | NameCheap, Inc |
 | ace.fast       | premium   | $625      | $625          | 88             | 57     | 3      | name.com       |
-| adept.fast     | available | $35.98    | —             | 92             | 27     | 5      | namecheap      |
+| curative.fast  | available | $35.98    | —             | 92             | 27     | 8      | namecheap      |
 | switch.fast    | resell    | —         | —             | 70             | 68     | 6      | NameCheap, Inc |
 | good.fast      | premium   | $312.50   | $312.50       | 82             | 55     | 4      | name.com       |
-| curative.fast  | available | $35.98    | —             | 92             | 27     | 8      | namecheap      |
+| crisp.fast     | available | $35.98    | —             | 68             | 27     | 5      | namecheap      |
 | match.fast     | resell    | —         | —             | 102            | 65     | 5      | NameCheap, Inc |
 | zero.fast      | premium   | $312.50   | $312.50       | 112            | 54     | 4      | name.com       |
-| crisp.fast     | available | $35.98    | —             | 68             | 27     | 5      | namecheap      |
+| adept.fast     | available | $35.98    | —             | 92             | 26     | 5      | namecheap      |
 | power.fast     | resell    | —         | —             | 82             | 62     | 5      | Porkbun LLC    |
-| business.fast  | premium   | $650      | $650          | 100            | 53     | 8      | namecheap      |
-| tonic.fast     | available | $35.98    | —             | 114            | 26     | 5      | namecheap      |
+| alpha.fast     | premium   | $312.50   | $312.50       | 90             | 54     | 5      | name.com       |
+| tonic.fast     | available | $35.98    | —             | 114            | 25     | 5      | namecheap      |
 | digital.fast   | resell    | —         | —             | 100            | 50     | 7      | Dynadot, LLC   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAST One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAST One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
