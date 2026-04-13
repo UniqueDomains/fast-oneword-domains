@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .fast one-word domains from Unique
 
 **Public extract:** 7,376 rows · **Live catalog:** 7,376 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/fast`  
 **Best for:** founders, investors, studios
 
@@ -78,10 +78,10 @@ print(df.head())
 | good.fast      | premium   | $312.50   | $312.50       | 82             | 55     | 4      | name.com       |
 | crisp.fast     | available | $35.98    | —             | 68             | 27     | 5      | namecheap      |
 | match.fast     | resell    | —         | —             | 102            | 65     | 5      | NameCheap, Inc |
-| alpha.fast     | premium   | $312.50   | $312.50       | 90             | 54     | 5      | name.com       |
+| zero.fast      | premium   | $312.50   | $312.50       | 112            | 53     | 4      | name.com       |
 | adept.fast     | available | $35.98    | —             | 92             | 26     | 5      | namecheap      |
 | power.fast     | resell    | —         | —             | 82             | 62     | 5      | Porkbun LLC    |
-| zero.fast      | premium   | $312.50   | $312.50       | 112            | 53     | 4      | name.com       |
+| business.fast  | premium   | $650      | $650          | 100            | 53     | 8      | namecheap      |
 | tonic.fast     | available | $35.98    | —             | 114            | 25     | 5      | namecheap      |
 | digital.fast   | resell    | —         | —             | 100            | 50     | 7      | Dynadot, LLC   |
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAST One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAST One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
