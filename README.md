@@ -69,10 +69,10 @@ print(df.head())
 | easy.fast      | premium   | $325      | $325          | 128            | 68     | 4      | namecheap      |
 | cozy.fast      | available | $35.98    | —             | 110            | 37     | 4      | namecheap      |
 | chase.fast     | resell    | —         | —             | 66             | 85     | 5      | NameCheap, Inc |
-| free.fast      | premium   | $1,250    | $1,250        | 88             | 59     | 4      | name.com       |
+| ace.fast       | premium   | $625      | $625          | 88             | 57     | 3      | name.com       |
 | aesthetic.fast | available | $35.98    | —             | 88             | 31     | 9      | namecheap      |
 | paddle.fast    | resell    | —         | —             | 77             | 78     | 6      | NameCheap, Inc |
-| ace.fast       | premium   | $625      | $625          | 88             | 57     | 3      | name.com       |
+| free.fast      | premium   | $1,250    | $1,250        | 88             | 57     | 4      | name.com       |
 | curative.fast  | available | $35.98    | —             | 92             | 27     | 8      | namecheap      |
 | switch.fast    | resell    | —         | —             | 70             | 68     | 6      | NameCheap, Inc |
 | good.fast      | premium   | $312.50   | $312.50       | 82             | 55     | 4      | name.com       |
@@ -83,7 +83,7 @@ print(df.head())
 | power.fast     | resell    | —         | —             | 82             | 62     | 5      | Porkbun LLC    |
 | business.fast  | premium   | $650      | $650          | 100            | 53     | 8      | namecheap      |
 | tonic.fast     | available | $35.98    | —             | 114            | 25     | 5      | namecheap      |
-| digital.fast   | resell    | —         | —             | 100            | 50     | 7      | Dynadot, LLC   |
+| create.fast    | resell    | —         | —             | 107            | 49     | 6      | Dynadot, LLC   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
