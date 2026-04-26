@@ -1,22 +1,22 @@
-# Available .FAST One-Word Domains (7,376)
+# Available .FAST One-Word Domains (9,771)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C376%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C376%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C771%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .fast one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .fast one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,771 domains** on the canonical page below.
 
-**Public extract:** 7,376 rows · **Live catalog:** 7,376 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,771 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/fast`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FAST one-word domain 
 
 ### Files
 
-- `fast.csv` — public CSV extract (7,376 rows)
-- `fast.json` — public JSON extract (7,376 rows)
+- `fast.csv` — public CSV extract (1,000 rows)
+- `fast.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
-| seventeen.fast | available | $35.98    | —             | 84             | 62     | 9      | namecheap      |
-| gold.fast      | resell    | —         | —             | 72             | 99     | 4      | Dynadot, LLC   |
-| easy.fast      | premium   | $325      | $325          | 128            | 68     | 4      | namecheap      |
-| cozy.fast      | available | $35.98    | —             | 110            | 37     | 4      | namecheap      |
-| chase.fast     | resell    | —         | —             | 66             | 85     | 5      | NameCheap, Inc |
-| ace.fast       | premium   | $625      | $625          | 88             | 57     | 3      | name.com       |
-| aesthetic.fast | available | $35.98    | —             | 88             | 31     | 9      | namecheap      |
-| paddle.fast    | resell    | —         | —             | 77             | 78     | 6      | NameCheap, Inc |
-| free.fast      | premium   | $1,250    | $1,250        | 88             | 57     | 4      | name.com       |
-| curative.fast  | available | $35.98    | —             | 92             | 27     | 8      | namecheap      |
-| switch.fast    | resell    | —         | —             | 70             | 68     | 6      | NameCheap, Inc |
-| good.fast      | premium   | $312.50   | $312.50       | 82             | 55     | 4      | name.com       |
-| crisp.fast     | available | $35.98    | —             | 68             | 27     | 5      | namecheap      |
-| match.fast     | resell    | —         | —             | 102            | 65     | 5      | NameCheap, Inc |
-| zero.fast      | premium   | $312.50   | $312.50       | 112            | 53     | 4      | name.com       |
-| adept.fast     | available | $35.98    | —             | 92             | 26     | 5      | namecheap      |
-| power.fast     | resell    | —         | —             | 82             | 62     | 5      | Porkbun LLC    |
-| business.fast  | premium   | $650      | $650          | 100            | 53     | 8      | namecheap      |
-| tonic.fast     | available | $35.98    | —             | 114            | 25     | 5      | namecheap      |
-| create.fast    | resell    | —         | —             | 107            | 49     | 6      | Dynadot, LLC   |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
+| CocaCola.fast     | available | $35.98    | —             | 92             | 82     | 9      | namecheap      |
+| update.fast       | resell    | —         | —             | 88             | 29     | 7      | NameCheap, Inc |
+| makers.fast       | premium   | $53.92    | $53.92        | 62             | 67     | 6      | namesilo       |
+| RedSox.fast       | available | $35.98    | —             | 72             | 60     | 7      | namecheap      |
+| reservations.fast | resell    | —         | —             | 50             | 17     | 12     | NameCheap, Inc |
+| travelers.fast    | premium   | $53.92    | $53.92        | 58             | 61     | 9      | namesilo       |
+| matcha.fast       | available | $35.98    | —             | 86             | 39     | 6      | namecheap      |
+| farmers.fast      | premium   | $62.50    | —             | 54             | 59     | 7      | name.com       |
+| whynot.fast       | available | $35.98    | —             | 74             | 39     | 7      | namecheap      |
+| Ryan.fast         | premium   | $350      | $350          | 60             | 44     | 4      | namecheap      |
+| neuroscience.fast | available | $35.98    | —             | 80             | 37     | 12     | namecheap      |
+| lets.fast         | premium   | $312.50   | —             | 77             | 39     | 4      | name.com       |
+| letsgo.fast       | available | $35.98    | —             | 57             | 31     | 7      | namecheap      |
+| stories.fast      | premium   | $625      | —             | 58             | 36     | 7      | name.com       |
+| popup.fast        | available | $35.98    | —             | 84             | 29     | 6      | namecheap      |
+| teams.fast        | premium   | $125      | —             | 62             | 32     | 5      | name.com       |
+| traders.fast      | available | $35.98    | —             | 60             | 26     | 7      | namecheap      |
+| solutions.fast    | premium   | $625      | —             | 56             | 31     | 9      | name.com       |
+| Trex.fast         | available | $35.98    | —             | 80             | 24     | 5      | namecheap      |
+| spaces.fast       | premium   | $62.50    | —             | 54             | 30     | 6      | name.com       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,376-row public sample | 7,376 live domains                               |
+| 1,000-row public sample | 9,771 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAST One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAST One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
