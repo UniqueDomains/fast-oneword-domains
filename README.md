@@ -68,7 +68,7 @@ print(df.head())
 | warp.fast         | resell    | —         | —             | 72             | 44     | 4      | 101domain GRS Limited |
 | hotels.fast       | premium   | $3,125    | —             | 64             | 82     | 6      | name.com              |
 | RedSox.fast       | available | $35.98    | —             | 72             | 60     | 7      | namecheap             |
-| update.fast       | resell    | —         | —             | 88             | 29     | 7      | NameCheap, Inc        |
+| update.fast       | resell    | —         | —             | 88             | 28     | 7      | NameCheap, Inc        |
 | makers.fast       | premium   | $53.92    | $53.92        | 62             | 67     | 6      | namesilo              |
 | matcha.fast       | available | $35.98    | —             | 86             | 39     | 6      | namecheap             |
 | reservations.fast | resell    | —         | —             | 50             | 17     | 12     | NameCheap, Inc        |
