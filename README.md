@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fast one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,351 domains · **Median ask:** $82.43 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/fast`  
 **Best for:** founders, investors, studios
 
@@ -70,14 +70,14 @@ print(df.head())
 | RedSox.fast       | available | $35.98    | —             | 72             | 60     | 7      | namecheap             |
 | update.fast       | resell    | —         | —             | 88             | 28     | 7      | NameCheap, Inc        |
 | makers.fast       | premium   | $53.92    | $53.92        | 62             | 67     | 6      | namesilo              |
-| matcha.fast       | available | $35.98    | —             | 86             | 39     | 6      | namecheap             |
+| whynot.fast       | available | $35.98    | —             | 74             | 44     | 7      | namecheap             |
 | reservations.fast | resell    | —         | —             | 50             | 17     | 12     | NameCheap, Inc        |
 | travelers.fast    | premium   | $53.92    | $53.92        | 58             | 61     | 9      | namesilo              |
-| whynot.fast       | available | $35.98    | —             | 74             | 39     | 7      | namecheap             |
+| matcha.fast       | available | $35.98    | —             | 86             | 39     | 6      | namecheap             |
 | farmers.fast      | premium   | $62.50    | —             | 54             | 59     | 7      | name.com              |
 | neuroscience.fast | available | $35.98    | —             | 80             | 37     | 12     | namecheap             |
 | Ryan.fast         | premium   | $350      | $350          | 60             | 44     | 4      | namecheap             |
-| popup.fast        | available | $35.98    | —             | 84             | 29     | 6      | namecheap             |
+| popup.fast        | available | $35.98    | —             | 84             | 28     | 6      | namecheap             |
 | lets.fast         | premium   | $312.50   | —             | 77             | 39     | 4      | name.com              |
 | Trex.fast         | available | $35.98    | —             | 80             | 24     | 5      | namecheap             |
 | stories.fast      | premium   | $625      | —             | 58             | 36     | 7      | name.com              |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAST One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAST One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
