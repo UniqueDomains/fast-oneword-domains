@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fast one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,430 domains · **Median ask:** $70.27 · **High-demand under $2,500:** 71
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/fast`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,6 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| correct.fast | premium   | $62.50    | $62.50        | high           | low    | 7      | name.com        |
-| nothing.fast | premium   | $53.92    | $53.92        | high           | low    | 7      | namesilo        |
-| off.fast     | premium   | $625      | —             | high           | low    | 3      | name.com        |
 | bulb.fast    | available | $29.49    | $29.49        | high           | low    | 4      | namesilo        |
 | doit.fast    | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
 | age.fast     | premium   | $625      | —             | high           | low    | 3      | name.com        |
@@ -84,6 +81,9 @@ print(df.head())
 | are.fast     | premium   | $625      | —             | high           | low    | 3      | name.com        |
 | mash.fast    | available | $29.49    | $29.49        | medium         | low    | 4      | namesilo        |
 | matrix.fast  | resell    | —         | —             | medium         | medium | 6      | Dynadot, LLC    |
+| atp.fast     | premium   | $625      | —             | medium         | low    | 3      | name.com        |
+| nana.fast    | available | $29.49    | $29.49        | high           | low    | 4      | namesilo        |
+| biology.fast | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAST One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAST One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
