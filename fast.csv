@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 3190a8f6-ee7f-4337-b29f-f604f05858b0,greetings.fast,premium,53.92,53.92,high,low,9,namesilo,,,
 38c84747-a134-43f1-babc-f4bcfd5dcc0b,suckit.fast,premium,625,,medium,low,7,name.com,,,
-cf97cf96-402b-4508-859b-eaadd60e4e1b,reader.fast,premium,53.92,53.92,high,low,6,namesilo,,,
+cf97cf96-402b-4508-859b-eaadd60e4e1b,reader.fast,premium,65,65,high,low,6,namecheap,,,17/09/2026 10:13
 4c7d5a47-5788-4b51-9c9d-b8b7ec141e78,famous.fast,premium,625,,high,low,6,name.com,,,
 9db5af7b-4890-462f-a076-fe413e8d7bd4,phrases.fast,premium,62.5,,low,low,7,name.com,,,
 b0f7692a-4551-422d-91df-1beb893c64cf,lead.fast,premium,302.5,302.5,high,low,4,namesilo,,,
